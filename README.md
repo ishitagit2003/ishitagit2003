@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishita Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<!-- <img place-item="center" alt="coding"  src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif"> -->
-![gif](https://github.com/ishitagit2003/ishitagit2003/imgs/104600849/dc5a56b7-f04e-42b3-90cf-0665ba8fde5d)
+<img place-item="center" alt="coding"  src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
+<!-- ![gif](https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231) -->
 
 
 ## 🌐 Socials:
