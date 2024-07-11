@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishita Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img place-item="center" alt="coding" width="100%" height="600" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
+<img place-item="center" alt="coding"  src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 <!-- ![gif](https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231) -->
 
 
